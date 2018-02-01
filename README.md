@@ -41,17 +41,31 @@ Learn about the basic concepts behind serverless architectures, the OpenWhisk pr
 * [Comparing IBM Cloud Functions to Apache OpenWhisk - TBD](http://example.com)
 
 ### Getting started with some building blocks for common use cases
-* [Building a simple REST API call handler](https://github.com/IBM/ibm-cloud-functions-serverless-apis).
-* [Building a simple message stream event processing system](https://github.com/IBM/ibm-cloud-functions-message-hub-trigger).
-* [Building a simple database change event processing system](https://github.com/IBM/ibm-cloud-functions-cloudant-trigger).
+* [Building a basic scheduled function call](https://github.com/IBM/ibm-cloud-functions-scheduled-tasks).
+* [Building a basic REST API call handler](https://github.com/IBM/ibm-cloud-functions-serverless-apis).
+* [Building a basic message stream event processing system](https://github.com/IBM/ibm-cloud-functions-message-hub-trigger).
+* [Building a basic database change event processing system](https://github.com/IBM/ibm-cloud-functions-cloudant-trigger).
 
 
 ## 3. IBM Cloud Functions 201 - Other reference architectures
 
-### More complex reference architectures
+### More complex versions of the basic use cases
 * [Building a more complete REST API call handler](https://github.com/IBM/ibm-cloud-functions-serverless-apis).
 * [Building a more complete a message stream event processing system](https://github.com/IBM/ibm-cloud-functions-data-processing-message-hubs).
 * [Building a more complete a database change event processing system](https://github.com/IBM/ibm-cloud-functions-data-processing-cloudant).
+
+### Other reference architectures
+* [Building a serverless web application](http://example.com)
+* [Building a cognitive app to handle data at rest](http://example.com)
+* [Building an interactive distributed processing application](http://example.com)
+* [Bulding a map/reduce application](http://example.com)
+* [Building a model-scoring application](http://example.com)
+* [Building a Monte Carlo simulation](http://example.com)
+* [Building a video processing application](http://example.com)
+* [Building a mobile backend](http://example.com)
+* [Building a serverless Express application](http://example.com)
+* [Building an IoT message processing application](http://example.com)
+* [Building a conversational bot](http://example.com)
 
 ### Debugging and monitoring applications
 * [Lorem ipsum](http://example.com)
@@ -69,10 +83,10 @@ Learn about the basic concepts behind serverless architectures, the OpenWhisk pr
 * [Lorem ipsum](http://example.com)
 
 ### OpenChecks
-* [Lorem ipsum](http://example.com)
+* [Serverless bank check deposit processing with object storage and optical character recognition using Apache OpenWhisk powered by IBM Cloud Functions. ](https://github.com/IBM/ibm-cloud-functions-serverless-ocr-openchecks)
 
 ### OpenFridge
-* [Lorem ipsum](http://example.com)
+* [Lorem ipsum](https://github.com/IBM/ibm-cloud-functions-serverless-iot-openfridge)
 
 ### Dark Vision
 * [Lorem ipsum](http://example.com)
