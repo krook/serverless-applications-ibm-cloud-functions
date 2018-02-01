@@ -83,22 +83,22 @@ Learn about the basic concepts behind serverless architectures, the OpenWhisk pr
 * [Lorem ipsum](http://example.com)
 
 ### OpenChecks
-* [Serverless bank check deposit processing with object storage and optical character recognition using Apache OpenWhisk powered by IBM Cloud Functions. ](https://github.com/IBM/ibm-cloud-functions-serverless-ocr-openchecks)
+* [Serverless bank check deposit processing with object storage and optical character recognition using Apache OpenWhisk powered by IBM Cloud Functions.](https://github.com/IBM/ibm-cloud-functions-serverless-ocr-openchecks)
 
 ### OpenFridge
-* [Lorem ipsum](https://github.com/IBM/ibm-cloud-functions-serverless-iot-openfridge)
+* [Improving customer service with IoT diagnostics and serverless, event-driven analytics.](https://github.com/IBM/ibm-cloud-functions-serverless-iot-openfridge)
 
 ### Dark Vision
-* [Lorem ipsum](http://example.com)
+* [Discover dark data in videos with IBM Watson and IBM Cloud Functions](https://github.com/IBM-Cloud/openwhisk-darkvisionapp)
 
 
 ## 5. Resources
 
 ### Where to learn more and engage the Apache OpenWhisk community
-* [Lorem ipsum](http://example.com)
+* [Apache OpenWhisk official site](http://openwhisk.incubator.apache.org/)
 
 ### Where to get help and support from the IBM Cloud Functions service as a customer or partner
-* [Lorem ipsum](http://example.com)
+* [IBM Cloud Functions documentation](https://console.bluemix.net/docs/openwhisk/index.html#getting-started-with-openwhiskm)
 
 ### Finding, suggesting, and sharing your own journeys
 * [IBM Code](http://developer.ibm.com/code/)
