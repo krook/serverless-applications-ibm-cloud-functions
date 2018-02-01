@@ -12,9 +12,9 @@ What sets OpenWhisk apart from other serverless implementations is that it's ope
 This repository contains a curriculum, sample code, and reference architectures for building serverless applications with Apache OpenWhisk hosted as a service that powers IBM Cloud Functions. Its focus is on building applications with IBM Cloud Functions, rather than deploying them to Apache OpenWhisk on premises.
 
 1. [Use cases](#1-use-cases)
-2. [IBM Cloud Functions 101 - Getting started with serverless](#2-IBM-Cloud-Functions-101-Getting-started-with-serverless)
-3. [IBM Cloud Functions 201 - Other reference architectures](#3-IBM=-Cloud-Functions-201-Other-reference-architectures)
-4. [IBM Cloud Functions 301 - Complete solution architectures](#4-IBM-Cloud-Functions-301-Complete-solution-architectures)
+2. [IBM Cloud Functions 101 - Getting started with serverless](#2-ibm-cloud-functions-101---getting-started-with-serverless)
+3. [IBM Cloud Functions 201 - Other reference architectures](#3-ibm-cloud-functions-201---other-reference-architectures)
+4. [IBM Cloud Functions 301 - Complete solution architectures](#4-ibm-cloud-functions-301---complete-solution-architectures)
 5. [Resources](#5-resources)
 
 ## 1. Use cases
