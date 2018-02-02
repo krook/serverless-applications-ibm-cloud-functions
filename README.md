@@ -29,7 +29,7 @@ Applications that are a good fit for serverless architectures include those that
 
 
 ## 2. IBM Cloud Functions 101 - Getting started with serverless
-Learn about the basic concepts behind serverless architectures, the OpenWhisk programming model, and deploy sample apps.
+Learn about the basic concepts behind serverless architectures, the core OpenWhisk programming model that powers IBM Cloud Functions, and deploy sample apps.
 
 ### Understanding serverless architectures
 * [Five minute intro to open source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160)
@@ -51,13 +51,38 @@ Learn about the basic concepts behind serverless architectures, the OpenWhisk pr
 
 ## 3. IBM Cloud Functions 201 - Other reference architectures
 
-### More complex versions of the basic use cases
+### More complex reference architectures
 * [Building a more complete REST API call handler](https://github.com/IBM/ibm-cloud-functions-serverless-apis).
+
+    <img src="https://raw.githubusercontent.com/IBM/ibm-cloud-functions-serverless-apis/master/docs/arch_buildserverless.png" alt="REST API handling" style="width: 300px;"/>
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
 * [Building a more complete a message stream event processing system](https://github.com/IBM/ibm-cloud-functions-data-processing-message-hubs).
+    
+    <img src="https://raw.githubusercontent.com/IBM/ibm-cloud-functions-data-processing-message-hub/master/docs/OpenWhisk-MessageHub-sample-architecture.png" alt="Message stream processing" style="width: 300px;"/>
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
 * [Building a more complete a database change event processing system](https://github.com/IBM/ibm-cloud-functions-data-processing-cloudant).
 
-### Other reference architectures
-* Building a serverless web application - TBD
+    <img src="https://raw.githubusercontent.com/IBM/ibm-cloud-functions-data-processing-cloudant/master/docs/arch_respondtodbchanges-1.png" alt="Data change processing" style="width: 300px;"/>
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* Building a serverless web application
 * Building a cognitive app to handle data at rest - TBD
 * Building an interactive distributed processing application - TBD
 * Bulding a map/reduce application - TBD
