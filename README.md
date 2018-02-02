@@ -52,7 +52,7 @@ Learn about the basic concepts behind serverless architectures, the core OpenWhi
 ## 3. IBM Cloud Functions 201 - Other reference architectures
 
 ### More complex reference architectures
-* [Building a more complete REST API call handler](https://github.com/IBM/ibm-cloud-functions-serverless-apis).
+* [**Building a more complete REST API call handler**](https://github.com/IBM/ibm-cloud-functions-serverless-apis).
 
     <img src="https://raw.githubusercontent.com/IBM/ibm-cloud-functions-serverless-apis/master/docs/arch_buildserverless.png" alt="REST API handling" style="width: 300px;"/>
 
@@ -62,7 +62,7 @@ Learn about the basic concepts behind serverless architectures, the core OpenWhi
     
     Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
 
-* [Building a more complete a message stream event processing system](https://github.com/IBM/ibm-cloud-functions-data-processing-message-hubs).
+* [**Building a more complete a message stream event processing system**](https://github.com/IBM/ibm-cloud-functions-data-processing-message-hubs).
     
     <img src="https://raw.githubusercontent.com/IBM/ibm-cloud-functions-data-processing-message-hub/master/docs/OpenWhisk-MessageHub-sample-architecture.png" alt="Message stream processing" style="width: 300px;"/>
 
@@ -72,7 +72,7 @@ Learn about the basic concepts behind serverless architectures, the core OpenWhi
     
     Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
 
-* [Building a more complete a database change event processing system](https://github.com/IBM/ibm-cloud-functions-data-processing-cloudant).
+* [**Building a more complete a database change event processing system**](https://github.com/IBM/ibm-cloud-functions-data-processing-cloudant).
 
     <img src="https://raw.githubusercontent.com/IBM/ibm-cloud-functions-data-processing-cloudant/master/docs/arch_respondtodbchanges-1.png" alt="Data change processing" style="width: 300px;"/>
 
@@ -82,17 +82,116 @@ Learn about the basic concepts behind serverless architectures, the core OpenWhi
     
     Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
 
-* Building a serverless web application
-* Building a cognitive app to handle data at rest - TBD
-* Building an interactive distributed processing application - TBD
-* Bulding a map/reduce application - TBD
-* Building a model-scoring application - TBD
-* Building a Monte Carlo simulation - TBD
-* Building a video processing application - TBD
-* Building a mobile backend - TBD
-* Building a serverless Express application - TBD
-* Building an IoT message processing application - TBD
-* Building a conversational bot - TBD
+* **Building a serverless web application** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building a cognitive app to handle data at rest** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building an interactive distributed processing application** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Bulding a map/reduce application** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building a model-scoring application** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building a Monte Carlo simulation** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building a video processing application** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building a mobile backend** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building a serverless Express application**  - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building an IoT message processing application** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
+* **Building a conversational bot** - TBD
+
+    Diagram
+
+    Brief description of where this is useful (from Pattern)
+    
+    Brief description of business benefits introduced by serverless approach (from Pattern)
+    
+    Setup instructions (and optionally Blueprint, wskdeploy manifest, or pipeline config)
+
 
 
 ## 4. IBM Cloud Functions 301 - Day to day development techniques
@@ -107,10 +206,10 @@ Learn about the basic concepts behind serverless architectures, the core OpenWhi
 * TBD
 
 ### Building complex workflows with Composer
-* TBD
+* [Composer is a new programming model for composing IBM Cloud Functions, built on Apache OpenWhisk.](https://github.com/ibm-functions/composer)
 
 ### Using the Shell
-* TBD
+* [An Electron-based development tool for IBM Cloud Functions and Composer](https://github.com/ibm-functions/shell)
 
 
 ## 5. IBM Cloud Functions 401 - Complete solution architectures
