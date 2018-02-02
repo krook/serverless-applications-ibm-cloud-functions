@@ -206,10 +206,10 @@ Learn about the basic concepts behind serverless architectures, the core OpenWhi
 * TBD
 
 ### Building complex workflows with Composer
-* TBD
+* [Composer is a new programming model for composing IBM Cloud Functions, built on Apache OpenWhisk.](https://github.com/ibm-functions/composer)
 
 ### Using the Shell
-* TBD
+* [An Electron-based development tool for IBM Cloud Functions and Composer](https://github.com/ibm-functions/shell)
 
 
 ## 5. IBM Cloud Functions 401 - Complete solution architectures
